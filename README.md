@@ -71,4 +71,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## Contact
 
-For inquiries or feedback, please contact [Your Name](mailto:your.email@example.com).
+For inquiries or feedback, please contact [Rudra Vashishtha](https://www.linkedin.com/in/rudra-vashishtha-7622a3217/).
