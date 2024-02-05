@@ -1,4 +1,3 @@
-```markdown
 # Figma Clone with Next.js, Tailwind CSS, Liveblocks, and Fabric.js
 
 ## Overview
